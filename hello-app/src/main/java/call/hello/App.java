@@ -9,7 +9,7 @@ public class App
 
     public static void main(String[] args) {
         System.out.println(new App().getMessage());
-        System.out.println("This is cloned project that taken from Github to gitv and now edited in Eclipse then pushed back to github");
+        System.out.println("This is cloned project that taken from Github to gitv and now edited in Eclipse then pushed back to github, check");
     }
 
     private final String getMessage() {
